@@ -9,10 +9,10 @@ from pygame.locals import *
 
 pretty_errors.activate()
 
-xTiles = 10
+xTiles = 15
 yTiles = xTiles
 FRAME_PER_SEC = 5
-MONSTER_NUM = 1
+MONSTER_NUM = 4
 
 black = (0, 0, 0)
 white = (255, 255, 255)
