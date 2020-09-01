@@ -8,7 +8,7 @@
 
 ## 演示
 
-![iShot2020-09-01上午10.42.08](https://i.imgur.com/1XmMoQR.gif)
+![play_pacman.gif](https://github.com/zronghui/pacman/raw/master/img/pacman/img/play_pacman.gif)
 
 ## 游戏设置
 
