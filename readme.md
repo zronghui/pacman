@@ -7,8 +7,7 @@
 本来老师说是学期作业，等我做完后，到后面老师就不提了。。。
 
 ## 演示
-
-![play_pacman.gif](https://github.com/zronghui/pacman/raw/master/img/pacman/img/play_pacman.gif)
+![play_pacman.gif](https://github.com/zronghui/pacman/raw/master/img/play_pacman.gif)
 
 ## 游戏设置
 
